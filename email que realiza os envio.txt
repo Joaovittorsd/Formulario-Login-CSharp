@@ -1,0 +1,10 @@
+email: vittor.testesysmap@gmail.com
+
+senha: BGa4w3FPC7Hg8MgM7fjE
+
+
+Email que pode vizualizar todas as tarefas
+contato@sistemas.com.br
+
+
+existe um limite no envio de emails para a API de aproximadamente 95 verificacoes metodo gratuito

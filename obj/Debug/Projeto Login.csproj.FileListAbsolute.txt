@@ -1,0 +1,110 @@
+C:\Users\GSO - TI\Desktop\Projetos\Tela de Login C#\Tela de Login\FrmLogin\bin\Debug\Teste SysMap.exe.config
+C:\Users\GSO - TI\Desktop\Projetos\Tela de Login C#\Tela de Login\FrmLogin\bin\Debug\Teste SysMap.exe.manifest
+C:\Users\GSO - TI\Desktop\Projetos\Tela de Login C#\Tela de Login\FrmLogin\bin\Debug\Teste SysMap.application
+C:\Users\GSO - TI\Desktop\Projetos\Tela de Login C#\Tela de Login\FrmLogin\bin\Debug\Teste SysMap.exe
+C:\Users\GSO - TI\Desktop\Projetos\Tela de Login C#\Tela de Login\FrmLogin\bin\Debug\Teste SysMap.pdb
+C:\Users\GSO - TI\Desktop\Projetos\Tela de Login C#\Tela de Login\FrmLogin\bin\Debug\EntityFramework.xml
+C:\Users\GSO - TI\Desktop\Projetos\Tela de Login C#\Tela de Login\FrmLogin\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\GSO - TI\Desktop\Projetos\Tela de Login C#\Tela de Login\FrmLogin\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\GSO - TI\Desktop\Projetos\Tela de Login C#\Tela de Login\FrmLogin\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+C:\Users\GSO - TI\Desktop\Projetos\Tela de Login C#\Tela de Login\FrmLogin\bin\Debug\Microsoft.Win32.SystemEvents.xml
+C:\Users\GSO - TI\Desktop\Projetos\Tela de Login C#\Tela de Login\FrmLogin\bin\Debug\Newtonsoft.Json.xml
+C:\Users\GSO - TI\Desktop\Projetos\Tela de Login C#\Tela de Login\FrmLogin\bin\Debug\RestSharp.xml
+C:\Users\GSO - TI\Desktop\Projetos\Tela de Login C#\Tela de Login\FrmLogin\bin\Debug\System.Buffers.xml
+C:\Users\GSO - TI\Desktop\Projetos\Tela de Login C#\Tela de Login\FrmLogin\bin\Debug\System.CodeDom.xml
+C:\Users\GSO - TI\Desktop\Projetos\Tela de Login C#\Tela de Login\FrmLogin\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\GSO - TI\Desktop\Projetos\Tela de Login C#\Tela de Login\FrmLogin\bin\Debug\System.Data.Odbc.xml
+C:\Users\GSO - TI\Desktop\Projetos\Tela de Login C#\Tela de Login\FrmLogin\bin\Debug\System.Data.OleDb.xml
+C:\Users\GSO - TI\Desktop\Projetos\Tela de Login C#\Tela de Login\FrmLogin\bin\Debug\System.Data.SqlClient.xml
+C:\Users\GSO - TI\Desktop\Projetos\Tela de Login C#\Tela de Login\FrmLogin\bin\Debug\System.Data.SQLite.xml
+C:\Users\GSO - TI\Desktop\Projetos\Tela de Login C#\Tela de Login\FrmLogin\bin\Debug\System.Diagnostics.EventLog.xml
+C:\Users\GSO - TI\Desktop\Projetos\Tela de Login C#\Tela de Login\FrmLogin\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+C:\Users\GSO - TI\Desktop\Projetos\Tela de Login C#\Tela de Login\FrmLogin\bin\Debug\System.Drawing.Common.xml
+C:\Users\GSO - TI\Desktop\Projetos\Tela de Login C#\Tela de Login\FrmLogin\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\GSO - TI\Desktop\Projetos\Tela de Login C#\Tela de Login\FrmLogin\bin\Debug\System.IO.Packaging.xml
+C:\Users\GSO - TI\Desktop\Projetos\Tela de Login C#\Tela de Login\FrmLogin\bin\Debug\System.IO.Ports.xml
+C:\Users\GSO - TI\Desktop\Projetos\Tela de Login C#\Tela de Login\FrmLogin\bin\Debug\System.Memory.xml
+C:\Users\GSO - TI\Desktop\Projetos\Tela de Login C#\Tela de Login\FrmLogin\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\GSO - TI\Desktop\Projetos\Tela de Login C#\Tela de Login\FrmLogin\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\GSO - TI\Desktop\Projetos\Tela de Login C#\Tela de Login\FrmLogin\bin\Debug\System.Security.AccessControl.xml
+C:\Users\GSO - TI\Desktop\Projetos\Tela de Login C#\Tela de Login\FrmLogin\bin\Debug\System.Security.Cryptography.Cng.xml
+C:\Users\GSO - TI\Desktop\Projetos\Tela de Login C#\Tela de Login\FrmLogin\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\GSO - TI\Desktop\Projetos\Tela de Login C#\Tela de Login\FrmLogin\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\GSO - TI\Desktop\Projetos\Tela de Login C#\Tela de Login\FrmLogin\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\GSO - TI\Desktop\Projetos\Tela de Login C#\Tela de Login\FrmLogin\bin\Debug\System.Security.Permissions.xml
+C:\Users\GSO - TI\Desktop\Projetos\Tela de Login C#\Tela de Login\FrmLogin\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\GSO - TI\Desktop\Projetos\Tela de Login C#\Tela de Login\FrmLogin\bin\Debug\System.ServiceModel.Syndication.xml
+C:\Users\GSO - TI\Desktop\Projetos\Tela de Login C#\Tela de Login\FrmLogin\bin\Debug\System.ServiceProcess.ServiceController.xml
+C:\Users\GSO - TI\Desktop\Projetos\Tela de Login C#\Tela de Login\FrmLogin\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\GSO - TI\Desktop\Projetos\Tela de Login C#\Tela de Login\FrmLogin\bin\Debug\System.Threading.AccessControl.xml
+C:\Users\GSO - TI\Desktop\Projetos\Tela de Login C#\Tela de Login\FrmLogin\obj\Debug\Projeto Login.csproj.AssemblyReference.cache
+C:\Users\GSO - TI\Desktop\Projetos\Tela de Login C#\Tela de Login\FrmLogin\obj\Debug\Projeto Login.csproj.SuggestedBindingRedirects.cache
+C:\Users\GSO - TI\Desktop\Projetos\Tela de Login C#\Tela de Login\FrmLogin\obj\Debug\Teste_SysMap.FrmLogin.resources
+C:\Users\GSO - TI\Desktop\Projetos\Tela de Login C#\Tela de Login\FrmLogin\obj\Debug\Teste_SysMap.FrmMenu.resources
+C:\Users\GSO - TI\Desktop\Projetos\Tela de Login C#\Tela de Login\FrmLogin\obj\Debug\Teste_SysMap.FrmUsuario.resources
+C:\Users\GSO - TI\Desktop\Projetos\Tela de Login C#\Tela de Login\FrmLogin\obj\Debug\Teste_SysMap.FrmUsuarioCadastro.resources
+C:\Users\GSO - TI\Desktop\Projetos\Tela de Login C#\Tela de Login\FrmLogin\obj\Debug\Teste_SysMap.Properties.Resources.resources
+C:\Users\GSO - TI\Desktop\Projetos\Tela de Login C#\Tela de Login\FrmLogin\obj\Debug\Projeto Login.csproj.GenerateResource.cache
+C:\Users\GSO - TI\Desktop\Projetos\Tela de Login C#\Tela de Login\FrmLogin\obj\Debug\Projeto Login.csproj.CoreCompileInputs.cache
+C:\Users\GSO - TI\Desktop\Projetos\Tela de Login C#\Tela de Login\FrmLogin\obj\Debug\Projeto Login.csproj.Fody.CopyLocal.cache
+C:\Users\GSO - TI\Desktop\Projetos\Tela de Login C#\Tela de Login\FrmLogin\obj\Debug\Teste SysMap.TrustInfo.xml
+C:\Users\GSO - TI\Desktop\Projetos\Tela de Login C#\Tela de Login\FrmLogin\obj\Debug\Teste SysMap.exe.manifest
+C:\Users\GSO - TI\Desktop\Projetos\Tela de Login C#\Tela de Login\FrmLogin\obj\Debug\Teste SysMap.application
+C:\Users\GSO - TI\Desktop\Projetos\Tela de Login C#\Tela de Login\FrmLogin\obj\Debug\Projeto Login.csproj.CopyComplete
+C:\Users\GSO - TI\Desktop\Projetos\Tela de Login C#\Tela de Login\FrmLogin\obj\Debug\Teste SysMap.exe
+C:\Users\GSO - TI\Desktop\Projetos\Tela de Login C#\Tela de Login\FrmLogin\obj\Debug\Teste SysMap.pdb
+C:\Users\GSO - TI\Desktop\Projetos\CSharp FrmLogin\bin\Debug\Teste SysMap.exe.config
+C:\Users\GSO - TI\Desktop\Projetos\CSharp FrmLogin\bin\Debug\Teste SysMap.exe.manifest
+C:\Users\GSO - TI\Desktop\Projetos\CSharp FrmLogin\bin\Debug\Teste SysMap.application
+C:\Users\GSO - TI\Desktop\Projetos\CSharp FrmLogin\bin\Debug\Teste SysMap.exe
+C:\Users\GSO - TI\Desktop\Projetos\CSharp FrmLogin\bin\Debug\Teste SysMap.pdb
+C:\Users\GSO - TI\Desktop\Projetos\CSharp FrmLogin\bin\Debug\EntityFramework.xml
+C:\Users\GSO - TI\Desktop\Projetos\CSharp FrmLogin\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\GSO - TI\Desktop\Projetos\CSharp FrmLogin\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\GSO - TI\Desktop\Projetos\CSharp FrmLogin\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+C:\Users\GSO - TI\Desktop\Projetos\CSharp FrmLogin\bin\Debug\Microsoft.Win32.SystemEvents.xml
+C:\Users\GSO - TI\Desktop\Projetos\CSharp FrmLogin\bin\Debug\Newtonsoft.Json.xml
+C:\Users\GSO - TI\Desktop\Projetos\CSharp FrmLogin\bin\Debug\RestSharp.xml
+C:\Users\GSO - TI\Desktop\Projetos\CSharp FrmLogin\bin\Debug\System.Buffers.xml
+C:\Users\GSO - TI\Desktop\Projetos\CSharp FrmLogin\bin\Debug\System.CodeDom.xml
+C:\Users\GSO - TI\Desktop\Projetos\CSharp FrmLogin\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\GSO - TI\Desktop\Projetos\CSharp FrmLogin\bin\Debug\System.Data.Odbc.xml
+C:\Users\GSO - TI\Desktop\Projetos\CSharp FrmLogin\bin\Debug\System.Data.OleDb.xml
+C:\Users\GSO - TI\Desktop\Projetos\CSharp FrmLogin\bin\Debug\System.Data.SqlClient.xml
+C:\Users\GSO - TI\Desktop\Projetos\CSharp FrmLogin\bin\Debug\System.Data.SQLite.xml
+C:\Users\GSO - TI\Desktop\Projetos\CSharp FrmLogin\bin\Debug\System.Diagnostics.EventLog.xml
+C:\Users\GSO - TI\Desktop\Projetos\CSharp FrmLogin\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+C:\Users\GSO - TI\Desktop\Projetos\CSharp FrmLogin\bin\Debug\System.Drawing.Common.xml
+C:\Users\GSO - TI\Desktop\Projetos\CSharp FrmLogin\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\GSO - TI\Desktop\Projetos\CSharp FrmLogin\bin\Debug\System.IO.Packaging.xml
+C:\Users\GSO - TI\Desktop\Projetos\CSharp FrmLogin\bin\Debug\System.IO.Ports.xml
+C:\Users\GSO - TI\Desktop\Projetos\CSharp FrmLogin\bin\Debug\System.Memory.xml
+C:\Users\GSO - TI\Desktop\Projetos\CSharp FrmLogin\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\GSO - TI\Desktop\Projetos\CSharp FrmLogin\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\GSO - TI\Desktop\Projetos\CSharp FrmLogin\bin\Debug\System.Security.AccessControl.xml
+C:\Users\GSO - TI\Desktop\Projetos\CSharp FrmLogin\bin\Debug\System.Security.Cryptography.Cng.xml
+C:\Users\GSO - TI\Desktop\Projetos\CSharp FrmLogin\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\GSO - TI\Desktop\Projetos\CSharp FrmLogin\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\GSO - TI\Desktop\Projetos\CSharp FrmLogin\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\GSO - TI\Desktop\Projetos\CSharp FrmLogin\bin\Debug\System.Security.Permissions.xml
+C:\Users\GSO - TI\Desktop\Projetos\CSharp FrmLogin\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\GSO - TI\Desktop\Projetos\CSharp FrmLogin\bin\Debug\System.ServiceModel.Syndication.xml
+C:\Users\GSO - TI\Desktop\Projetos\CSharp FrmLogin\bin\Debug\System.ServiceProcess.ServiceController.xml
+C:\Users\GSO - TI\Desktop\Projetos\CSharp FrmLogin\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\GSO - TI\Desktop\Projetos\CSharp FrmLogin\bin\Debug\System.Threading.AccessControl.xml
+C:\Users\GSO - TI\Desktop\Projetos\CSharp FrmLogin\obj\Debug\Projeto Login.csproj.AssemblyReference.cache
+C:\Users\GSO - TI\Desktop\Projetos\CSharp FrmLogin\obj\Debug\Projeto Login.csproj.SuggestedBindingRedirects.cache
+C:\Users\GSO - TI\Desktop\Projetos\CSharp FrmLogin\obj\Debug\Teste_SysMap.FrmLogin.resources
+C:\Users\GSO - TI\Desktop\Projetos\CSharp FrmLogin\obj\Debug\Teste_SysMap.FrmMenu.resources
+C:\Users\GSO - TI\Desktop\Projetos\CSharp FrmLogin\obj\Debug\Teste_SysMap.FrmUsuario.resources
+C:\Users\GSO - TI\Desktop\Projetos\CSharp FrmLogin\obj\Debug\Teste_SysMap.FrmUsuarioCadastro.resources
+C:\Users\GSO - TI\Desktop\Projetos\CSharp FrmLogin\obj\Debug\Teste_SysMap.Properties.Resources.resources
+C:\Users\GSO - TI\Desktop\Projetos\CSharp FrmLogin\obj\Debug\Projeto Login.csproj.GenerateResource.cache
+C:\Users\GSO - TI\Desktop\Projetos\CSharp FrmLogin\obj\Debug\Projeto Login.csproj.CoreCompileInputs.cache
+C:\Users\GSO - TI\Desktop\Projetos\CSharp FrmLogin\obj\Debug\Projeto Login.csproj.Fody.CopyLocal.cache
+C:\Users\GSO - TI\Desktop\Projetos\CSharp FrmLogin\obj\Debug\Teste SysMap.TrustInfo.xml
+C:\Users\GSO - TI\Desktop\Projetos\CSharp FrmLogin\obj\Debug\Teste SysMap.exe.manifest
+C:\Users\GSO - TI\Desktop\Projetos\CSharp FrmLogin\obj\Debug\Teste SysMap.application
+C:\Users\GSO - TI\Desktop\Projetos\CSharp FrmLogin\obj\Debug\Projeto Login.csproj.CopyComplete
+C:\Users\GSO - TI\Desktop\Projetos\CSharp FrmLogin\obj\Debug\Teste SysMap.exe
+C:\Users\GSO - TI\Desktop\Projetos\CSharp FrmLogin\obj\Debug\Teste SysMap.pdb

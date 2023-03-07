@@ -1,0 +1,2 @@
+# Formulario de Login CSharp
+Meu projeto em C# utiliza uma API para verificar se um email é válido e também faz a confirmação de código através do email. O projeto é orientado a objetos e estou trabalhando em algumas melhorias para deixá-lo ainda melhor. Além disso, o projeto utiliza o banco de dados SQLite para armazenar as informações dos usuários e tarefas, com rastreabilidade das tarefas realizadas por cada usuário. Isso permite uma melhor organização e segurança dos dados, além de possibilitar a geração de relatórios e estatísticas sobre as atividades dos usuários.
